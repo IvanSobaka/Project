@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1639773999 source:c:\users\lenovo\documents\Инфа\project\main.cpp
+	<iostream>
+	<cmath>
+	<random>
+	<fstream>
+	<string>
+	<omp.h>
+	<sstream>
+
