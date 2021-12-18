@@ -1,0 +1,9 @@
+*.xyz
+.idea/*
+venv/*
+bin/*
+obj/*
+akfs.txt
+deviation.txt
+energy.txt
+momentum.txt
